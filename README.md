@@ -4,7 +4,8 @@ A code written in Python to keep your Discord account 24/7 Online.
 - Visit https://replit.com/ and Create an Account.
 - Click on create repl.
 - Then click on Import from Github and paste in <b>sahinguclu/Discord-Online-24-7</b>, then click on Import from Github again.
-- After creating the repl, then click on Secrets Environment Variables.
+- After creating the repl, change the programming language to Python.
+- Then click on Secrets Environment Variables.
 - Then for Key you have to type <b>TOKEN</b> (All Caps), and for value, you have to paste in your token.
 - Then Click Run, you will notice that your account is online.
 - <b>NOTE:</b> After an hour your repl will stop running, to keep you repl running 24/7 follow the below steps.
